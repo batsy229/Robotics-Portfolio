@@ -19,7 +19,7 @@ Designed and implemented a Fuzzy Logic Controller (FLC) for a Ball and Beam syst
 
 ## Project Files
 - `Report/`: contains Plots showing system response, stability, and tuning results.
-- `Video link/`: 
+- `Video link/`: https://drive.google.com/drive/folders/1D-sUq8Bs9muwpkOcqPwH53YqTOpryAJ-?usp=drive_link
 
 ## Learning Outcomes
 - Hands-on experience with Fuzzy Logic control.
