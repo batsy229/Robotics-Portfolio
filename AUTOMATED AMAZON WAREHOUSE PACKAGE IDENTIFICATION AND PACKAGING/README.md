@@ -25,7 +25,8 @@ This project focused on designing and implementing an automated warehouse system
 ## Repository Contents
 - `/src` – Source code for perception, planning, and control modules  
 - `/reports` – Project report and documentation  
-- `/video Link` – 
+- `/video Link` – https://drive.google.com/drive/folders/1q_RCY1tvwFnyvIHTiuKhfJin5SbjPbUV?usp=drive_link
+  
 
 
 
