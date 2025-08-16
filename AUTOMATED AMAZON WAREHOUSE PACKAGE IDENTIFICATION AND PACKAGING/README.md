@@ -7,7 +7,7 @@ This project focused on designing and implementing an automated warehouse system
 
 ## Key Features
 - **Autonomous Pick-and-Place:** Detects objects and moves them onto/off the moving TurtleBot.  
-- **Semantic RGB-D Segmentation:** Identifies packages in real-time using depth and color information.  
+- **Instance Segmentation:** Identifies packages in real-time using depth and color information.  
 - **Continuous Tracking:** Updates object positions continuously to handle dynamic, moving items.  
 - **ROS Integration:** Coordinated motion planning and trajectory control using ROS for multi-robot operations.
 
