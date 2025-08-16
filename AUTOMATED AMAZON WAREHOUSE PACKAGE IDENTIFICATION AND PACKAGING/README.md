@@ -12,7 +12,7 @@ This project focused on designing and implementing an automated warehouse system
 - **ROS Integration:** Coordinated motion planning and trajectory control using ROS for multi-robot operations.
 
 ## Technologies & Tools
-- **Programming Languages:** Python, C++  
+- **Programming Languages:** Python
 - **Robotics Frameworks:** ROS, MoveIt!  
 - **Perception:** RGB-D Cameras, YOLOv8 semantic segmentation  
 - **Hardware:** UR3 robotic arm, TurtleBot, depth cameras  
