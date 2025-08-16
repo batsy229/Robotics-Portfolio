@@ -18,9 +18,8 @@ Designed and implemented a Fuzzy Logic Controller (FLC) for a Ball and Beam syst
 - Integration with sensors and actuators (simulated environment).
 
 ## Project Files
-- `MATLAB_Simulink_Files/`: Contains all Simulink models and MATLAB scripts.
-- `Figures/`: Plots showing system response, stability, and tuning results.
-- `Video/`: 
+- `Report/`: contains Plots showing system response, stability, and tuning results.
+- `Video link/`: 
 
 ## Learning Outcomes
 - Hands-on experience with Fuzzy Logic control.
