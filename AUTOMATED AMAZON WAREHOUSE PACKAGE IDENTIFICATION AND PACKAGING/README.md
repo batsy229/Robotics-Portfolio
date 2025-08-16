@@ -23,8 +23,8 @@ This project focused on designing and implementing an automated warehouse system
 - Developed end-to-end control and perception pipeline for multi-robot warehouse simulation.
 
 ## Repository Contents
-- `/src` – Source code for perception, planning, and control modules  
-- `/reports` – Project report and documentation  
+- `/src` – Source code for perception, planning, and control modules in Instance-segmentation-main folder.
+- `/reports` – Project report and documentation in E-portfolio folder
 - `/video Link` – https://drive.google.com/drive/folders/1q_RCY1tvwFnyvIHTiuKhfJin5SbjPbUV?usp=drive_link
   
 
